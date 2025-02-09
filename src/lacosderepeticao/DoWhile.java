@@ -45,6 +45,20 @@ public class DoWhile {
         	  
           } while(numero != 0 );
        		System.out.println("A soma dos numeros positivos " + positivo  );
+       		
+       		
+       		
+       		
+       		
+       		
+       		
+       		
+       		
+       		
+       		
+       		
+       		
+       		
 
 			
 			
